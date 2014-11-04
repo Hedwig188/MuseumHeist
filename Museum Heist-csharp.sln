@@ -1,0 +1,45 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{87430EE9-BA51-34BB-908C-48D96B2D7544}") = "Museum Heist", "Assembly-CSharp-vs.csproj", "{B4279073-5AFE-02D4-CE65-6417B0A3D112}"
+EndProject
+Project("{87430EE9-BA51-34BB-908C-48D96B2D7544}") = "Museum Heist", "Assembly-CSharp-Editor-vs.csproj", "{1A9D0630-88BB-F1CB-3DD9-E10109A51FAA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B4279073-5AFE-02D4-CE65-6417B0A3D112}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B4279073-5AFE-02D4-CE65-6417B0A3D112}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B4279073-5AFE-02D4-CE65-6417B0A3D112}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B4279073-5AFE-02D4-CE65-6417B0A3D112}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1A9D0630-88BB-F1CB-3DD9-E10109A51FAA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1A9D0630-88BB-F1CB-3DD9-E10109A51FAA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1A9D0630-88BB-F1CB-3DD9-E10109A51FAA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1A9D0630-88BB-F1CB-3DD9-E10109A51FAA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+																																																																																																					GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+		Policies = $0
+		$0.TextStylePolicy = $1
+		$1.inheritsSet = null
+		$1.scope = text/x-csharp
+		$0.CSharpFormattingPolicy = $2
+		$2.inheritsSet = Mono
+		$2.inheritsScope = text/x-csharp
+		$2.scope = text/x-csharp
+		$0.TextStylePolicy = $3
+		$3.FileWidth = 120
+		$3.TabWidth = 4
+		$3.EolMarker = Unix
+		$3.inheritsSet = Mono
+		$3.inheritsScope = text/plain
+		$3.scope = text/plain
+	EndGlobalSection
+
+EndGlobal

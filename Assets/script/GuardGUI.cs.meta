@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 3350a9ad1970dc24f9d004522ff40d07
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - patrolNodePrefab: {fileID: 100000, guid: 5368745daa4d145fdb6d5b5b6840ccb8, type: 2}
+  - toolWindow: {instanceID: 0}
+  - guardObj: {fileID: 100004, guid: 3e286c602035c491abc3c8f9ae32963f, type: 2}
+  - cameraObj: {fileID: 100000, guid: e0d30df4d357d492a9b91b40e89a7552, type: 2}
+  - laserTrapObj: {fileID: 100000, guid: 0972c3cc7008947e4bb2ae9f9f51f768, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 

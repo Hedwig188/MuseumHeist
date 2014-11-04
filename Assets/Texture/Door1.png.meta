@@ -1,0 +1,180 @@
+fileFormatVersion: 2
+guid: 1212976f80a6a45f28f6ad85117e0c80
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Door1
+    21300002: Door1_0
+    21300004: Door1_1
+    21300006: Door1_2
+    21300008: Door1_3
+    21300010: Door1_4
+    21300012: Door1_5
+    21300014: Door1_6
+    21300016: Door1_7
+    21300018: Door1_8
+    21300020: Door1_9
+    21300022: Door1_10
+    21300024: Door1_11
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Door1_0
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 208
+        width: 42
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Door1_1
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 209
+        width: 41
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Door1_2
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 209
+        width: 38
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Door1_3
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 209
+        width: 31
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Door1_4
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 209
+        width: 27
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Door1_5
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 209
+        width: 19
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Door1_6
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 129
+        width: 27
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Door1_7
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 129
+        width: 31
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Door1_8
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 129
+        width: 38
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Door1_9
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 129
+        width: 41
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Door1_10
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 128
+        width: 42
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Door1_11
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 126
+        width: 40
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
